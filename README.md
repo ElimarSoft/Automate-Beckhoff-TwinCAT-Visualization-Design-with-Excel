@@ -68,7 +68,9 @@ This tool is designed for:
 - Bulk editing visualization elements  
 - Maintaining consistent UI structures across projects  
 - Rapid prototyping of  TwinCAT® visualization layouts  
-
+<p align="center">
+  <img src="Process.png" width="100%">
+</p>
 <p align="center">
   <img src="List.png" width="100%">
 </p>
