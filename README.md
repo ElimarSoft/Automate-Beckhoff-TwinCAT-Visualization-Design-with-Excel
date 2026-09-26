@@ -72,8 +72,19 @@ This tool is designed for:
   <img src="Process.png" width="100%">
 </p>
 <p align="center">
+
   <img src="List.png" width="100%">
 </p>
 <p align="center">
   <img src="ListTrans.png" width="100%">
 </p>
+
+DISCLAIMER
+This project is provided for educational and engineering convenience purposes only.
+The author makes no warranties regarding correctness, completeness, reliability,
+or suitability for any particular application.
+Users are solely responsible for validating all generated or modified PLC data
+before deployment in production environments.
+The author shall not be liable for any damages, equipment failures,
+production losses, safety incidents, or other consequences arising from the
+use of this software.
